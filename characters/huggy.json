@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-280
+			],
+			"framerate": 24,
+			"prefix": "huggy down",
+			"looped": false,
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				-140,
+				307
+			],
+			"framerate": 24,
+			"prefix": "huggy idle",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-42,
+				118
+			],
+			"framerate": 24,
+			"prefix": "huggy left",
+			"looped": false,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-45,
+				60
+			],
+			"framerate": 24,
+			"prefix": "huggy right",
+			"looped": false,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				-226,
+				612
+			],
+			"framerate": 24,
+			"prefix": "huggy up",
+			"looped": false,
+			"name": "singUP"
+		}
+	],
+	"isPlayer": false,
+	"antialiasing": true,
+	"path": "thewug",
+	"scale": 1
+}

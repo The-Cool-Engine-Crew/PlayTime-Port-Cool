@@ -1,0 +1,128 @@
+{
+	"dadPosition": [
+		-340,
+		141.000005003957
+	],
+	"scripts": [],
+	"gfPosition": [
+		497,
+		230.176073272108
+	],
+	"gfVersion": "gf",
+	"cameraDad": [
+		50,
+		0
+	],
+	"isPixelStage": false,
+	"name": "factory",
+	"boyfriendPosition": [
+		1186,
+		654
+	],
+	"hideGirlfriend": false,
+	"defaultZoom": 0.56,
+	"cameraBoyfriend": [
+		-200,
+		-75
+	],
+	"elements": [
+		{
+			"zIndex": 0,
+			"asset": "huggy",
+			"position": [
+				-759,
+				-427
+			],
+			"visible": true,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "huggy",
+			"antialiasing": true,
+			"scrollFactor": [
+				1,
+				1
+			],
+			"alpha": 1
+		},
+		{
+			"asset": "blue_gradient",
+			"zIndex": 0,
+			"position": [
+				-890,
+				-470
+			],
+			"scale": [
+				100,
+				3.25
+			],
+			"blend":"multiply",
+			"type": "sprite",
+			"visible": true,
+			"name": "blue_gradient",
+			"aboveChars": true,
+			"scrollFactor": [
+				1,
+				1
+			],
+			"antialiasing": true,
+			"alpha": 0.2
+		},
+		{
+			"asset": "huggylight",
+			"zIndex": 100,
+			"aboveChars": true,
+			"blend": "multiply",
+			"position": [
+				-853,
+				-433
+			],
+			"scale": [
+				1.15,
+				1.15
+			],
+			"type": "sprite",
+			"visible": true,
+			"name": "huggylight",
+			"flipX": false,
+			"color": null,
+			"angle": null,
+			"antialiasing": true,
+			"scrollFactor": [
+				1,
+				1
+			],
+			"flipY": false,
+			"alpha": 1
+		},
+		{
+			"asset": "huggylight",
+			"zIndex": 3,
+			"aboveChars": true,
+			"blend": "add",
+			"position": [
+				-853,
+				-433
+			],
+			"scale": [
+				1,
+				1
+			],
+			"type": "sprite",
+			"visible": true,
+			"name": "huggylight",
+			"flipX": false,
+			"color": null,
+			"angle": null,
+			"antialiasing": true,
+			"scrollFactor": [
+				1,
+				1
+			],
+			"flipY": false,
+			"alpha": 1
+		}
+	]
+}

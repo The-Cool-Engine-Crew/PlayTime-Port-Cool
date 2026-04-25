@@ -1,0 +1,14 @@
+{
+	"songs": [
+		{
+			"group": 0,
+			"artist": "SleepyOreo (og. by KJ Elliott)",
+			"albumText": "huggywuggy-text",
+			"bpm": 110,
+			"album": "huggywuggy",
+			"icon": "huggy",
+			"name": "Playtime",
+			"color": "0x0XFF1F57FF"
+		}
+	]
+}

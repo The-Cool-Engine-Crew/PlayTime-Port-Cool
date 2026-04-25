@@ -1,0 +1,12 @@
+{
+	"developerMode": true,
+	"priority": 0,
+	"name": "PlayTime 2026",
+	"color": "6633CC",
+	"startupDefault": false,
+	"description": "port cool engine",
+	"website": "",
+	"author": "idk",
+	"version": "1.0.0",
+	"enabled": true
+}
